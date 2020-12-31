@@ -1,0 +1,17 @@
+{
+	"name": "node-jsonsets",
+	"version": "1.0.0",
+	"description": "Use merged JSON files to store data for Node.JS",
+	"author": "Aimedev",
+	"main": "index.js",
+	"license": "MIT",
+	"keywords": [
+		"database",
+		"json",
+		"node"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://gitlab.com/aimedev/node-jsonsets.git"
+	}
+}

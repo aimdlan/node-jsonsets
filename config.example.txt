@@ -1,0 +1,2 @@
+prodname=dbj
+pointer=inner_var

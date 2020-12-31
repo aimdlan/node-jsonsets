@@ -1,0 +1,8 @@
+{
+	"whoami": "file2",
+	"this_file": "is merged be under file2 key",
+	"extras": {
+		"everything": ["I want", "you want", "they want"],
+		"punctuate": "!"
+	}
+}

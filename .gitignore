@@ -1,0 +1,6 @@
+node_modules
+*.log
+
+config.txt
+*.json
+!package.json
