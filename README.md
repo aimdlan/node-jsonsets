@@ -66,8 +66,8 @@ jsets.splice('.file1.array', someValuePosition, nbValues, newValues);
 
 ## Contributing
 
-![🎫 Submit an issue](https://gitlab.com/aimedev/node-jsonsets/-/issues)
+[🎫 Submit an issue](https://gitlab.com/aimedev/node-jsonsets/-/issues)
 
 ## Licence
 
-MIT - ![Aimedev](https://gitlab.com/aimedev)
+MIT - [Aimedev](https://gitlab.com/aimedev)
