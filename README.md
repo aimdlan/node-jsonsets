@@ -70,4 +70,4 @@ jsets.splice('.file1.array', someValuePosition, nbValues, newValues);
 
 ## Licence
 
-MIT - ![Aimedev](gitlab.com/aimedev)
+MIT - ![Aimedev](https://gitlab.com/aimedev)
